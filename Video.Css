@@ -1,0 +1,73 @@
+body {
+background-color: #3a6ea5;
+color: white;
+text-align: center;
+padding: 2rem 1rem;
+}
+
+
+h1 {
+margin: 0;
+font-size: 2.2rem;
+}
+
+
+main {
+max-width: 900px;
+margin: 2rem auto;
+background: white;
+padding: 2rem;
+border-radius: 8px;
+box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+
+/* ==========================
+Step Section Styling
+========================== */
+.step {
+margin-bottom: 2.5rem;
+border-bottom: 1px solid #ddd;
+padding-bottom: 2rem;
+}
+
+
+.step h2 {
+color: #3a6ea5;
+margin-bottom: 0.5rem;
+}
+
+
+.step img {
+display: block;
+width: 100%;
+max-width: 550px;
+border: 2px solid #ccc;
+border-radius: 6px;
+margin-top: 1rem;
+}
+
+
+/* ==========================
+Final Video Section
+========================== */
+.final-video iframe {
+width: 100%;
+max-width: 700px;
+border: none;
+border-radius: 6px;
+display: block;
+margin: 1rem auto;
+}
+
+
+/* ==========================
+Footer Styling
+========================== */
+footer {
+text-align: center;
+padding: 1rem;
+background: #e5e5e5;
+margin-top: 3rem;
+font-size: 0.9rem;
+}
